@@ -1,6 +1,6 @@
 button {
-    color: white;
-    background-color: green;
+    color: black;
+    background-color: lightgreen;
 }
 
 * {
@@ -20,4 +20,10 @@ p {
 
 li {
     font-size: 18px;
+}
+
+button:hover {
+    color: white;
+    background-color: green;
+    cursor: pointer;
 }
