@@ -1,0 +1,23 @@
+button {
+    color: white;
+    background-color: green;
+}
+
+* {
+    font-family: "Times New Roman", Helvetica;
+}
+
+h1, h2
+{
+    font-weight: bold;
+    color: lightcoral;
+}
+
+p {
+    font-size: 20px;
+
+}
+
+li {
+    font-size: 18px;
+}
